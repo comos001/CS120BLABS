@@ -1,2 +1,2 @@
-# CS120BLABS
+# LAB2IntroAVR
 Compilation of Labs from Embedded Systems 
